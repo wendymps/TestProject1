@@ -1,0 +1,7 @@
+Are you referring to pressing save after editing an annotation's note? By default WebViewer only triggers a save of the annotations when the save button in the notes panel menu is pressed (or the keyboard shortcut alt + s). You can find the save button by opening up the notes panel on the right, pressing the downwards pointing arrow button in the top right and then pressing the save button on that menu.
+
+You could change this so that other actions might cause annotations to be saved automatically. For example see this post for code that will save whenever an annotation changes: https://groups.google.com/d/msg/pdfnet-webviewer/sP3ApHhyOh8/SdwIHw3s0uQJ
+
+Matt Parizeau
+Software Developer
+PDFTron Systems Inc.
